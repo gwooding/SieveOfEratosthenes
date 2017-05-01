@@ -41,7 +41,7 @@ bool* findPrimesUnder(int n)
 
 
 //change name from main to run tests, also change altmain method in Catch.h to main to run tests
-int pain()
+int main()
 {
     int n = 0;
 
